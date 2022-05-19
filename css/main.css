@@ -33,6 +33,16 @@ body{
     transform: rotate(0deg);
     /* animation: aylan 4s; */
 }
+.minut{
+    position: absolute;
+    width: 8px;
+    height: 150px;
+    background-color: rgb(47, 182, 255);
+    top: 0px;
+    transform-origin: bottom;
+    transform: rotate(0deg);
+    border-radius: 10px;
+}
 
 @keyframes aylan{
     0%{
