@@ -45,6 +45,16 @@ body{
     transform: rotate(0deg);
     border-radius: 10px;
 }
+.hour{
+    position: absolute;
+    width: 10px;
+    height: 140px;
+    background-color: rgb(172, 172, 172);
+    top: 10px;
+    transform-origin: bottom;
+    transform: rotate(0deg);
+    border-radius: 15px;
+}
 
 @keyframes aylan{
     0%{
